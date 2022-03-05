@@ -87,7 +87,7 @@
             </div>
             <div class="col-md-3">
               <div class="team-member maxwidth400">
-                <div class="thumb"><img alt="" src="/images/team/1.jpg" class="img-fullwidth"></div>
+                <div class="thumb"><img alt="" src="/images/team/2.jpg" class="img-fullwidth"></div>
                 <div class="info">
                   <h5 class="mb-0"> I.C.R.D.A, A Mão de Deus Paróquia, Vila Flor, Luanda, Angola</h5>
                   <p><b><i class="fa fa-user"></i></b> Bro Pedro Da Silva Costa
@@ -103,7 +103,7 @@
             </div>
             <div class="col-md-3">
               <div class="team-member maxwidth400">
-                <div class="thumb"><img alt="" src="/images/team/1.jpg" class="img-fullwidth"></div>
+                <div class="thumb"><img alt="" src="/images/team/4.jpg" class="img-fullwidth"></div>
                 <div class="info">
                   <h5 class="mb-0">RCCG, Mount Olives Parish, Prenda, Luanda, Angola</h5>
                   <p><b><i class="fa fa-user"></i></b> Bro Quissanga Nelson
@@ -119,7 +119,7 @@
             </div>
             <div class="col-md-3">
               <div class="team-member maxwidth400">
-                <div class="thumb"><img alt="" src="/images/team/1.jpg" class="img-fullwidth"></div>
+                <div class="thumb"><img alt="" src="/images/team/7.jpg" class="img-fullwidth"></div>
                 <div class="info">
                   <h5 class="mb-0">RCCG, Solution Arena Parish, Zango 4, Luanda, Angola</h5>
                   <p><b><i class="fa fa-user"></i></b> Bro Mupondo Rivaldo Mayamba 
