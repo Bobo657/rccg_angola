@@ -14,5 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::view('/','welcome');
-Route::view('/gallery','gallery');
+Route::view('/contact','contact');
 Route::view('/about','about')->name('about');
+Route::view('/our_beliefs','our_beliefs')->name('our_beliefs');
+Route::view('/our_history','our_history')->name('our_history');

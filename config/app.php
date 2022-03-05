@@ -17,9 +17,13 @@ return [
 
     'email' => 'info@dechisspot.com',
 
-    'phone' => '(+234) 8170 9311 34',
+    'phone' => '+244 945 452 222',
 
-    'address' => ' Orozo in Abuja FCT',
+    'phone1' => '+244 927 556 703',
+
+    'phone2' => '+244 928 543 237',
+
+    'address' => 'Distrito Urbano Rangel, Avenida Deolinda Rodrigues, Luanda, Angola.',
 
     /*
     |--------------------------------------------------------------------------
