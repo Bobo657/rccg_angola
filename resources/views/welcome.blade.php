@@ -476,13 +476,13 @@
     </section>
     
     <!-- Section: Causes 2 -->
-    <section class="divider parallax layer-overlay" data-bg-img="/images/bg/bg1.jpg" data-parallax-ratio="0.7"> 
+    <section class="divider parallax layer-overlay" data-bg-img="/images/bg/bg6.jpg" data-parallax-ratio="0.7"> 
       <div class="container pb-80">
         <div class="section-title text-center">
           <div class="row">
             <div class="col-md-8 col-md-offset-2">
-              <h2 class="mb-30 text-uppercase mt-0 line-height-1 text-white">Our <span class="text-theme-colored"> Causes</span></h2>
-              <p class="text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem<br> voluptatem obcaecati!</p>
+              <h2 class="mb-30 text-uppercase mt-0 line-height-1 text-white">Our <span class="text-theme-colored"> Pastors</span></h2>
+              <p class="text-white">We will pursue these objectives until every Nation in the world is reached for the Lord Jesus Christ.</p>
             </div>
           </div>
         </div>
@@ -491,17 +491,12 @@
             <div class="item">
               <div class="causes mb-sm-50">
                 <div class="thumb">
-                  <img class="img-fullwidth" alt="" src="/images/project/1.jpg">
+                  <img class="img-fullwidth" alt="" src="/images/team/2.jpg">
                 </div>
                 <div class="causes-details clearfix">
                   <div class="p-30 p-sm-15 bg-lighter">
-                    <h4><a href="#">Sponsor a child today</a></h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisici elit. Illo, laudantium, accusantium impedit magnam nobis</p>
-                    <ul class="list-inline clearfix mt-20 mb-20">
-                      <li class="pull-left flip pr-0">Raised: <span class="font-weight-700">$1890</span></li>
-                      <li class="text-theme-colored pull-right flip pr-0">Goal: <span class="font-weight-700">$2500</span></li>
-                    </ul>
-                     <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="#">Donate Now</a>
+                    <h4><a href="#">Bro Pedro Da Silva Costa</a></h4>
+                    <p>I.C.R.D.A, A Mão de Deus Paróquia, Vila Flor, Luanda, Angola</p>
                   </div>
                 </div>
               </div>
@@ -509,17 +504,12 @@
             <div class="item">
               <div class="causes mb-sm-50">
                 <div class="thumb">
-                  <img class="img-fullwidth" alt="" src="/images/project/2.jpg">
+                  <img class="img-fullwidth" alt="" src="/images/team/4.jpg">
                 </div>
                 <div class="causes-details clearfix">
                   <div class="p-30 p-sm-15 bg-lighter">
-                    <h4><a href="#">Sponsor a child today</a></h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisici elit. Illo, laudantium, accusantium impedit magnam nobis</p>
-                    <ul class="list-inline clearfix mt-20 mb-20">
-                      <li class="pull-left flip pr-0">Raised: <span class="font-weight-700">$1890</span></li>
-                      <li class="text-theme-colored pull-right flip pr-0">Goal: <span class="font-weight-700">$2500</span></li>
-                    </ul>
-                     <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="#">Donate Now</a>
+                    <h4><a href="#">Bro Quissanga Nelson</a></h4>
+                    <p>RCCG, Mount Olives Parish, Prenda, Luanda, Angola</p>
                   </div>
                 </div>
               </div>
@@ -527,17 +517,12 @@
             <div class="item">
               <div class="causes mb-sm-50">
                 <div class="thumb">
-                  <img class="img-fullwidth" alt="" src="/images/project/3.jpg">
+                  <img class="img-fullwidth" alt="" src="/images/team/7.jpg">
                 </div>
                 <div class="causes-details clearfix">
                   <div class="p-30 p-sm-15 bg-lighter">
-                    <h4><a href="#">Sponsor a child today</a></h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisici elit. Illo, laudantium, accusantium impedit magnam nobis</p>
-                    <ul class="list-inline clearfix mt-20 mb-20">
-                      <li class="pull-left flip pr-0">Raised: <span class="font-weight-700">$1890</span></li>
-                      <li class="text-theme-colored pull-right flip pr-0">Goal: <span class="font-weight-700">$2500</span></li>
-                    </ul>
-                     <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="#">Donate Now</a>
+                    <h4><a href="#">Bro Mupondo Rivaldo Mayamba </a></h4>
+                    <p>RCCG, Solution Arena Parish, Zango 4, Luanda, Angola</p>
                   </div>
                 </div>
               </div>
@@ -545,39 +530,17 @@
             <div class="item">
               <div class="causes mb-sm-50">
                 <div class="thumb">
-                  <img class="img-fullwidth" alt="" src="/images/project/3.jpg">
+                  <img class="img-fullwidth" alt="" src="/images/team/1.jpg">
                 </div>
                 <div class="causes-details clearfix">
                   <div class="p-30 p-sm-15 bg-lighter">
-                    <h4><a href="#">Sponsor a child today</a></h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisici elit. Illo, laudantium, accusantium impedit magnam nobis</p>
-                    <ul class="list-inline clearfix mt-20 mb-20">
-                      <li class="pull-left flip pr-0">Raised: <span class="font-weight-700">$1890</span></li>
-                      <li class="text-theme-colored pull-right flip pr-0">Goal: <span class="font-weight-700">$2500</span></li>
-                    </ul>
-                     <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="#">Donate Now</a>
+                    <h4><a href="#">Pastor Adenuga Damilola.</a></h4>
+                    <p>RCCG City Church Parish, Talatona, Luanda Angola.</p>
                   </div>
                 </div>
               </div>
             </div>
-            <div class="item">
-              <div class="causes mb-sm-50">
-                <div class="thumb">
-                  <img class="img-fullwidth" alt="" src="/images/project/1.jpg">
-                </div>
-                <div class="causes-details clearfix">
-                  <div class="p-30 p-sm-15 bg-lighter">
-                    <h4><a href="#">Sponsor a child today</a></h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisici elit. Illo, laudantium, accusantium impedit magnam nobis</p>
-                    <ul class="list-inline clearfix mt-20 mb-20">
-                      <li class="pull-left flip pr-0">Raised: <span class="font-weight-700">$1890</span></li>
-                      <li class="text-theme-colored pull-right flip pr-0">Goal: <span class="font-weight-700">$2500</span></li>
-                    </ul>
-                     <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="#">Donate Now</a>
-                  </div>
-                </div>
-              </div>
-            </div>
+            
           </div> 
         </div>
       </div>
@@ -605,523 +568,111 @@
     </section>
     
     <!-- Section: Project Start Form -->
-    <section class="divider parallax layer-overlay overlay-dark-8" data-bg-img="/images/bg/bg4.jpg">
-      <div class="container-fluid">
-        <div class="row equal-height">
-          <div class="col-md-4 col-md-offset-1">
-            <h3 class="bg-theme-colored p-15 pl-30 mb-0 text-white">Become a Volunteer</h3>
-            <form id="volunteer_apply_form" class="bg-light p-30 pb-15" name="job_apply_form" action="http://html.kodesolution.live/m/echarity/v2/demo/includes/become-volunteer.php" method="post" enctype="multipart/form-data">
-              <div class="row">
-                <div class="col-sm-6">
-                  <div class="form-group">
-                    <label for="form_name">Name <small>*</small></label>
-                    <input id="form_name" name="form_name" type="text" placeholder="Enter Name" required="" class="form-control">
-                  </div>
-                </div>
-                <div class="col-sm-6">
-                  <div class="form-group">
-                    <label for="form_email">Email <small>*</small></label>
-                    <input id="form_email" name="form_email" class="form-control required email" type="email" placeholder="Enter Email">
-                  </div>
-                </div>
-              </div>
-              <div class="row">               
-                <div class="col-sm-6">
-                  <div class="form-group">
-                    <label for="form_sex">Sex <small>*</small></label>
-                    <select id="form_sex" name="form_sex" class="form-control required">
-                      <option value="Male">Male</option>
-                      <option value="Female">Female</option>
-                    </select>
-                  </div>
-                </div>
-                <div class="col-sm-6">
-                  <div class="form-group">
-                    <label for="form_branch">Choose Branch <small>*</small></label>
-                    <select id="form_branch" name="form_branch" class="form-control required">
-                      <option value="UK">UK</option>
-                      <option value="USA">USA</option>
-                      <option value="Australia">Australia</option>
-                    </select>
-                  </div>
-                </div>
-              </div>
-              <div class="form-group">
-                <label for="form_message">Message <small>*</small></label>
-                <textarea id="form_message" name="form_message" class="form-control required" rows="3" placeholder="Your cover letter/message sent to the employer"></textarea>
-              </div>
-              <div class="form-group">
-                <label for="form_attachment">C/V Upload</label>
-                <input id="form_attachment" name="form_attachment" class="file" type="file" multiple data-show-upload="false" data-show-caption="true">
-              </div>
-              <div class="form-group">
-                <input id="form_botcheck" name="form_botcheck" class="form-control" type="hidden" value="" />
-                <button type="submit" class="btn btn-block btn-dark btn-theme-colored btn-sm mt-20 pt-10 pb-10" data-loading-text="Please wait...">Apply Now</button>
-              </div>
-            </form>
-            <!-- Job Form Validation-->
-            <script type="text/javascript">
-              $("#volunteer_apply_form").validate({
-                submitHandler: function(form) {
-                  var form_btn = $(form).find('button[type="submit"]');
-                  var form_result_div = '#form-result';
-                  $(form_result_div).remove();
-                  form_btn.before('<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>');
-                  var form_btn_old_msg = form_btn.html();
-                  form_btn.html(form_btn.prop('disabled', true).data("loading-text"));
-                  $(form).ajaxSubmit({
-                    dataType:  'json',
-                    success: function(data) {
-                      if( data.status == 'true' ) {
-                        $(form).find('.form-control').val('');
-                      }
-                      form_btn.prop('disabled', false).html(form_btn_old_msg);
-                      $(form_result_div).html(data.message).fadeIn('slow');
-                      setTimeout(function(){ $(form_result_div).fadeOut('slow') }, 6000);
-                    }
-                  });
-                }
-              });
-            </script>
-          </div>
-          <div class="col-md-6 hidden-xs">
-            <div class="p-50">
-              <div class="row">
-                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 mb-50 text-white">
-                <div class="funfact text-center">
-                  <div class="funfact-content">
-                    <div class="funfact-icon">
-                      <i class="pe-7s-smile font-50 text-white"></i>
-                    </div>
-                    <h2 data-animation-duration="2000" data-value="754" class="animate-number text-theme-colored font-30 mt-10">0</h2>
-                    <h4 class="text-uppercase text-white">Happy Donators</h4>
-                    <p>Architecto ullam tenetur quia nemo ratione tempora.</p>
-                  </div>
-                </div>
-                </div>
-                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 mb-50 text-white">
-                <div class="funfact text-center">
-                  <div class="funfact-content">
-                    <div class="funfact-icon">
-                      <i class="pe-7s-rocket font-50 text-white"></i>
-                    </div>
-                    <h2 data-animation-duration="2000" data-value="4469" class="animate-number text-theme-colored font-30 mt-10">0</h2>
-                    <h4 class="text-uppercase text-white">Success Mission</h4>
-                    <p>Architecto ullam tenetur quia nemo ratione tempora.</p>
-                  </div>
-                </div>
-                </div>
-                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 mb-md-50 text-white mt-20">
-                <div class="funfact text-center">
-                  <div class="funfact-content">
-                    <div class="funfact-icon">
-                      <i class="pe-7s-add-user font-50 text-white"></i>
-                    </div>
-                    <h2 data-animation-duration="2000" data-value="1106" class="animate-number text-theme-colored font-30 mt-10">0</h2>
-                    <h4 class="text-uppercase text-white">Volunteer Reached</h4>
-                    <p>Architecto ullam tenetur quia nemo ratione tempora.</p>
-                  </div>
-                </div>
-                </div>
-                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 mb-md-50 text-white mt-20">
-                <div class="funfact text-center">
-                  <div class="funfact-content">
-                    <div class="funfact-icon">
-                      <i class="pe-7s-global font-50 text-white"></i>
-                    </div>
-                    <h2 data-animation-duration="2000" data-value="698" class="animate-number text-theme-colored font-30 mt-10">0</h2>
-                    <h4 class="text-uppercase text-white">Globalization Work</h4>
-                    <p>Architecto ullam tenetur quia nemo ratione tempora.</p>
-                  </div>
-                </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- Section: Gallery 2-->
     <section>
-      <div class="container">
-        <div class="section-title text-center">
-          <div class="row">
-            <div class="col-md-12">
-              <h2 class="line-height-1 mt-0 mb-0 pb-20">Photo<span class="text-theme-colored"> Gallery</span></h2>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-12">
-            <!-- Portfolio Gallery Grid -->
-            <div id="grid" class="gallery-isotope grid-4 gutter clearfix">
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item photography">
-                <div class="thumb">
-                  <img class="img-fullwidth" src="/images/portfolio/1.jpg" alt="project">
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                        <a data-lightbox="image" href="/images/portfolio/1.jpg"><i class="fa fa-plus"></i></a>
-                        <a href="#"><i class="fa fa-link"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                  <a class="hover-link" data-lightbox="image" href="/images/portfolio/1.jpg">View more</a>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
-              
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item branding">
-                <div class="thumb">
-                  <img class="img-fullwidth" src="/images/portfolio/2.jpg" alt="project">
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                        <a href="#"><i class="fa fa-link"></i></a>
-                        <a href="#"><i class="fa fa-heart-o"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                  <a class="hover-link" data-lightbox="image" href="/images/portfolio/2.jpg">View more</a>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
-
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item design">
-                <div class="thumb">
-                  <img class="img-fullwidth" src="/images/portfolio/3.jpg" alt="project">
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                        <a href="#"><i class="fa fa-link"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                  <a class="hover-link" data-lightbox="image" href="/images/portfolio/3.jpg">View more</a>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
-
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item photography">
-                <div class="thumb">
-                  <img class="img-fullwidth" src="/images/portfolio/4.jpg" alt="project">
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                        <a class="popup-youtube" href="http://www.youtube.com/watch?v=0O2aH4XLbto"><i class="fa fa-youtube-play"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                  <a class="hover-link" data-lightbox="image" href="/images/portfolio/4.jpg">View more</a>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
-
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item branding">
-                <div class="thumb">
-                  <img class="img-fullwidth" src="/images/portfolio/5.jpg" alt="project">
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                        <a class="popup-vimeo" href="https://vimeo.com/45830194"><i class="fa fa-play"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                  <a class="hover-link" data-lightbox="image" href="/images/portfolio/5.jpg">View more</a>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
-
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item design">
-                <div class="thumb">
-                  <div class="flexslider-wrapper">
-                    <div class="flexslider">
-                      <ul class="slides">
-                        <li><a href="/images/portfolio/1.jpg" title="Portfolio Gallery - Photo 1"><img src="/images/portfolio/1.jpg" alt=""></a></li>
-                        <li><a href="/images/portfolio/2.jpg" title="Portfolio Gallery - Photo 2"><img src="/images/portfolio/2.jpg" alt=""></a></li>
-                        <li><a href="/images/portfolio/3.jpg" title="Portfolio Gallery - Photo 3"><img src="/images/portfolio/3.jpg" alt=""></a></li>
-                      </ul>
-                    </div>
-                  </div>
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                        <a href="#"><i class="fa fa-picture-o"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
-
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item photography">
-                <div class="thumb">
-                  <img class="img-fullwidth" src="/images/portfolio/1.jpg" alt="project">
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                        <a data-lightbox="image" href="/images/portfolio/1.jpg"><i class="fa fa-plus"></i></a>
-                        <a href="#"><i class="fa fa-link"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                  <a class="hover-link" data-lightbox="image" href="/images/portfolio/2.jpg">View more</a>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
-
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item design">
-                <div class="thumb">
-                  <div class="flexslider-wrapper" data-direction="vertical">
-                    <div class="flexslider">
-                      <ul class="slides">
-                        <li><a href="/images/portfolio/6.jpg" title="Portfolio Gallery - Photo 1"><img src="/images/portfolio/6.jpg" alt=""></a></li>
-                        <li><a href="/images/portfolio/5.jpg" title="Portfolio Gallery - Photo 2"><img src="/images/portfolio/5.jpg" alt=""></a></li>
-                        <li><a href="/images/portfolio/4.jpg" title="Portfolio Gallery - Photo 3"><img src="/images/portfolio/4.jpg" alt=""></a></li>
-                      </ul>
-                    </div>
-                  </div>
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                        <a href="#"><i class="fa fa-picture-o"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
-
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item photography design">
-                <div class="thumb">
-                  <img class="img-fullwidth" src="/images/portfolio/3.jpg" alt="project">
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                        <a data-lightbox="image" href="/images/portfolio/2.jpg"><i class="fa fa-plus"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                  <a class="hover-link" data-lightbox="image" href="/images/portfolio/3.jpg">View more</a>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
-
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item photography branding">
-                <div class="thumb">
-                  <img class="img-fullwidth" src="/images/portfolio/6.jpg" alt="project">
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                        <a data-lightbox="image" href="/images/portfolio/6.jpg"><i class="fa fa-plus"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                  <a class="hover-link" data-lightbox="image" href="/images/portfolio/6.jpg">View more</a>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
-
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item photography">
-                <div class="thumb">
-                  <img class="img-fullwidth" src="/images/portfolio/4.jpg" alt="project">
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                        <a data-lightbox="image" href="/images/portfolio/4.jpg"><i class="fa fa-plus"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                  <a class="hover-link" data-lightbox="image" href="/images/portfolio/4.jpg">View more</a>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
-
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item photography">
-                <div class="thumb">
-                  <img class="img-fullwidth" src="/images/portfolio/3.jpg" alt="project">
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                        <a data-lightbox="image" href="/images/portfolio/3.jpg"><i class="fa fa-plus"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                  <a class="hover-link" data-lightbox="image" href="/images/portfolio/3.jpg">View more</a>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
-            </div>
-            <!-- End Portfolio Gallery Grid -->
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- Section: Testimonials and Logo -->
-    <section class="divider parallax layer-overlay  overlay-white-5">
       <div class="container pt-0 pb-0">
-         <div class="container pt-60 pb-60">
-        <div class="row">
-          <div class="col-md-8 col-md-offset-2 mb-30">
-             <h4 class="text-uppercase line-bottom mt-0">Testimonies</h4>
-            <div class="bxslider bx-nav-top">
-                <div class="testimonial bg-lightest p-20 mb-15">
-                  <div class="comment">
-                   <p><em>Lorem ipsum dolor sit ametconse ctetur adipisicing elitvolup tatem error sit qui.</em></p>
-                  </div>
-                  <div class="content mt-20">
-                    <div class="thumb pull-left flip">
-                      <img width="64" src="images/testimonials/s2.jpg" alt="" class="img-circle">
+        <div class="section-content">
+          <div class="row equal-height-inner home-boxes" data-margin-top="-100px">
+            <div class="col-sm-12 col-md-3 pl-0 pl-sm-15 pr-0 pr-sm-15 sm-height-auto mt-sm-0 wow fadeInLeft animation-delay2">
+              <div class="sm-height-auto bg-theme-colored-lighter4">
+                <div class="text-center pt-30 pb-sm-30">
+                  <div class="icon-box text-center">
+                    <a class="icon bg-white icon-circled icon-xl" href="#"> <i class="flaticon-charity-hand-holding-a-stalk  text-theme-colored"></i> </a>
+                    <div class="p-10">
+                      <h4 class="text-uppercase text-white mt-0">Become a Volunteer</h4>
+                      <p class="text-white">Lorem ipsum dolor sit amet, <br> conse ctetur adipisicing.</p>
+                      <a href="page-become-a-volunteer.html" class="btn btn-border btn-circled btn-transparent btn-sm">Join us Now</a>
                     </div>
-                    <div class="testimonials-details pull-left flip ml-20">
-                      <h5 class="author text-theme-color-2 mt-0 mb-0 font-weight-600">Jonathan Smith</h5>
-                      <h6 class="title font-14 m-0 mt-5 mb-5 text-gray-darkgray">cici inc.</h6>
-                      
-                    </div>
-                    <div class="clearfix"></div>
-                  </div>
-                </div>
-                <div class="testimonial bg-lightest p-20 mb-15">
-                  <div class="comment">
-                   <p><em>Lorem ipsum dolor sit ametconse ctetur adipisicing elitvolup tatem error sit qui.</em></p>
-                  </div>
-                  <div class="content mt-20">
-                    <div class="thumb pull-left flip">
-                      <img width="64" src="images/testimonials/s2.jpg" alt="" class="img-circle">
-                    </div>
-                    <div class="testimonials-details pull-left flip ml-20">
-                      <h5 class="author text-theme-color-2 mt-0 mb-0 font-weight-600">Jonathan Smith</h5>
-                      <h6 class="title font-14 m-0 mt-5 mb-5 text-gray-darkgray">cici inc.</h6>
-                      
-                    </div>
-                    <div class="clearfix"></div>
-                  </div>
-                </div>
-                <div class="testimonial bg-lightest p-20 mb-15">
-                  <div class="comment">
-                   <p><em>Lorem ipsum dolor sit ametconse ctetur adipisicing elitvolup tatem error sit qui.</em></p>
-                  </div>
-                  <div class="content mt-20">
-                    <div class="thumb pull-left flip">
-                      <img width="64" src="images/testimonials/s2.jpg" alt="" class="img-circle">
-                    </div>
-                    <div class="testimonials-details pull-left flip ml-20">
-                      <h5 class="author text-theme-color-2 mt-0 mb-0 font-weight-600">Jonathan Smith</h5>
-                      <h6 class="title font-14 m-0 mt-5 mb-5 text-gray-darkgray">cici inc.</h6>
-                      
-                    </div>
-                    <div class="clearfix"></div>
                   </div>
                 </div>
               </div>
+            </div>
+            <div class="col-sm-12 col-md-3 pl-0 pl-sm-15 pr-0 pr-sm-15 sm-height-auto mt-sm-0 wow fadeInLeft animation-delay2">
+              <div class="sm-height-auto bg-theme-colored-lighter3">
+                <div class="text-center pt-30 pb-sm-30">
+                  <div class="icon-box text-center">
+                    <a class="icon bg-white icon-circled icon-xl" href="#"> <i class="flaticon-charity-dove-of-peace text-theme-colored"></i> </a>
+                    <div class="p-10">
+                      <h4 class="text-uppercase text-white mt-0">Adopt a Child</h4>
+                      <p class="text-white">Lorem ipsum dolor sit amet, <br> conse ctetur adipisicing.</p>
+                      <a href="page-become-a-volunteer.html" class="btn btn-border btn-circled btn-transparent btn-sm">Contact us</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-12 col-md-3 pl-0 pl-sm-15 pr-0 pr-sm-15 sm-height-auto mt-sm-0 wow fadeInLeft animation-delay3">
+              <div class="sm-height-auto bg-theme-colored-lighter2">
+                <div class="text-center pt-30 pb-sm-30">
+                  <div class="icon-box text-center">
+                    <a class="icon bg-white icon-circled icon-xl" href="#"> <i class="flaticon-charity-make-a-donation text-theme-colored"></i> </a>
+                    <div class="p-10">
+                      <h4 class="text-uppercase text-white mt-0">Get Involved</h4>
+                      <p class="text-white">Lorem ipsum dolor sit amet, <br> conse ctetur adipisicing.</p>
+                      <a href="page-become-a-volunteer.html" class="btn btn-border btn-circled btn-transparent btn-sm">Donate Us</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-12 col-md-3 pl-0 pl-sm-15 pr-0 pr-sm-15 sm-height-auto mt-sm-0 wow fadeInLeft animation-delay4">
+              <div class="sm-height-auto bg-theme-colored">
+                <div class="text-center pt-30 pb-sm-30">
+                  <div class="icon-box text-center">
+                    <a class="icon bg-white icon-circled icon-xl" href="#"> <i class="flaticon-charity-responsible-use-of-water text-theme-colored"></i> </a>
+                    <div class="p-10">
+                      <h4 class="text-uppercase text-white mt-0">Emergency Case</h4>
+                      <h3 class="text-white">+(012) 345 6789</h3>
+                      <a href="page-become-a-volunteer.html" class="btn btn-border btn-circled btn-transparent btn-sm">Contact Now</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
-      </div>
     </section>
+
+  
 
     <section id="gallery" class="bg-lighter">
       <div class="container">
         <div class="section-content">
           <div class="row">
             <div class="col-md-5 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s;">
-              <h3 class="mt-0 line-bottom line-height-1">Upcoming  <span class="text-theme-colored"> Events</span></h3>
+              <h3 class="mt-0 line-bottom line-height-1">Our <span class="text-theme-colored"> Programs</span></h3>
               <div class="event media mb-20 no-bg no-border">
-                <div class="event-date media-left text-center flip bg-theme-colored p-20">
-                  <ul>
-                    <li class="font-30 text-white font-weight-600 border-bottom pb-10">28</li>
-                    <li class="font-22 text-white text-uppercase">Feb</li>
-                  </ul>
-                </div>
                 <div class="media-body pl-20">
                   <div class="event-content pull-left flip">
-                    <h4 class="event-title media-heading font-raleway font-weight-700"><a href="#">Gear up for giving</a></h4>
-                    <span class="mb-10 text-gray-darkgray mr-10"><i class="fa fa-clock-o mr-5 text-theme-colored"></i> at 5.00 pm - 7.30 pm</span>
-                    <span class="text-gray-darkgray"><i class="fa fa-map-marker mr-5"></i> 25 Newyork City</span>
-                    <p class="mt-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commod</p>
+                    <h4 class="event-title media-heading font-raleway font-weight-700"><a href="#">Every Sunday: Worship Service</a></h4>
+                    <span class="mb-10 text-gray-darkgray mr-10"><i class="fa fa-clock-o mr-5 text-theme-colored"></i> 7:30am - 11.30 am</span>
+                    <span class="text-gray-darkgray"><i class="fa fa-map-marker mr-5"></i> Church Auditorium</span>
+                    <p class="mt-5">First Sunday: Thanksgiving Service</p>
+                    <p class="mt-5">Last Sunday: Prophetic Prayer Service</p>
                   </div>
                 </div>
               </div>
               <div class="event media mb-20 no-bg no-border">
-                <div class="event-date media-left text-center flip bg-theme-colored p-20">
-                  <ul>
-                    <li class="font-30 text-white font-weight-600 border-bottom pb-10">28</li>
-                    <li class="font-22 text-white text-uppercase">Feb</li>
-                  </ul>
-                </div>
                 <div class="media-body pl-20">
                   <div class="event-content pull-left flip">
-                    <h4 class="event-title media-heading font-raleway font-weight-700"><a href="#">Gear up for giving</a></h4>
-                    <span class="mb-10 text-gray-darkgray mr-10"><i class="fa fa-clock-o mr-5 text-theme-colored"></i> at 5.00 pm - 7.30 pm</span>
-                    <span class="text-gray-darkgray"><i class="fa fa-map-marker mr-5"></i> 25 Newyork City</span>
-                    <p class="mt-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commod</p>
+                    <h4 class="event-title media-heading font-raleway font-weight-700"><a href="#">Weekly Service</a></h4>
+                    <span class="mb-10 text-gray-darkgray mr-10"><i class="fa fa-clock-o mr-5 text-theme-colored"></i> at 6:30pm - 8:00pm</span>
+                    <span class="text-gray-darkgray"><i class="fa fa-map-marker mr-5"></i> @ designated locations</span>
+                    <p class="mt-5">Bible Study & Prayer Meeting (For inquiry, visit our <a href="/contact">Contact page</a> for contact details)</p>
                   </div>
                 </div>
               </div>
-              <div class="event media mb-20 no-bg no-border">
-                <div class="event-date media-left text-center flip bg-theme-colored p-20">
-                  <ul>
-                    <li class="font-30 text-white font-weight-600 border-bottom pb-10">28</li>
-                    <li class="font-22 text-white text-uppercase">Feb</li>
-                  </ul>
-                </div>
-                <div class="media-body pl-20">
-                  <div class="event-content pull-left flip">
-                    <h4 class="event-title media-heading font-raleway font-weight-700"><a href="#">Gear up for giving</a></h4>
-                    <span class="mb-10 text-gray-darkgray mr-10"><i class="fa fa-clock-o mr-5 text-theme-colored"></i> at 5.00 pm - 7.30 pm</span>
-                    <span class="text-gray-darkgray"><i class="fa fa-map-marker mr-5"></i> 25 Newyork City</span>
-                    <p class="mt-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commod</p>
-                  </div>
-                </div>
-              </div>
+              
             </div>
             <div class="col-md-7 wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s;">
-              <h3 class="mt-0 line-bottom line-height-1">Photo  <span class="text-theme-colored"> Gallery</span></h3>
+             
               <!-- Portfolio Gallery Grid -->
-              <div id="grid" class="gallery-isotope grid-3 gutter clearfix" style="position: relative; height: 406.032px;">
+              <div id="grid" class="gallery-isotope grid-2 gutter clearfix" style="position: relative; height: 406.032px;">
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item photography" style="position: absolute; left: 0px; top: 0px;">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="images/gallery/s1.jpg" alt="project">
+                    <img class="img-fullwidth" src="images/gallery/1.jpg" alt="project">
                     <div class="overlay-shade"></div>
-                    <div class="text-holder text-center">
-                      <h5 class="title">Gallery Title Here</h5>
-                    </div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                          <a data-lightbox="image" href="images/gallery/s1.jpg"><i class="fa fa-plus"></i></a>
-                          <a href="#"><i class="fa fa-link"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                    <a class="hover-link" data-lightbox="image" href="images/gallery/s1.jpg">View more</a>
                   </div>
                 </div>
                 <!-- Portfolio Item End -->
@@ -1129,177 +680,13 @@
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item branding" style="position: absolute; left: 217px; top: 0px;">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="images/gallery/s2.jpg" alt="project">
+                    <img class="img-fullwidth" src="images/gallery/2.jpg" alt="project">
                     <div class="overlay-shade"></div>
-                    <div class="text-holder text-center">
-                      <h5 class="title">Gallery Title Here</h5>
-                    </div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                          <a href="#"><i class="fa fa-link"></i></a>
-                          <a href="#"><i class="fa fa-heart-o"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                    <a class="hover-link" data-lightbox="image" href="images/gallery/s2.jpg">View more</a>
                   </div>
                 </div>
                 <!-- Portfolio Item End -->
 
-                <!-- Portfolio Item Start -->
-                <div class="gallery-item design" style="position: absolute; left: 434px; top: 0px;">
-                  <div class="thumb">
-                    <img class="img-fullwidth" src="images/gallery/s3.jpg" alt="project">
-                    <div class="overlay-shade"></div>
-                    <div class="text-holder text-center">
-                      <h5 class="title">Gallery Title Here</h5>
-                    </div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                          <a href="#"><i class="fa fa-link"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                    <a class="hover-link" data-lightbox="image" href="images/gallery/s3.jpg">View more</a>
-                  </div>
-                </div>
-                <!-- Portfolio Item End -->
-
-                <!-- Portfolio Item Start -->
-                <div class="gallery-item photography" style="position: absolute; left: 0px; top: 122px;">
-                  <div class="thumb">
-                    <img class="img-fullwidth" src="images/gallery/s4.jpg" alt="project">
-                    <div class="overlay-shade"></div>
-                    <div class="text-holder text-center">
-                      <h5 class="title">Gallery Title Here</h5>
-                    </div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                          <a class="popup-youtube" href="http://www.youtube.com/watch?v=0O2aH4XLbto"><i class="fa fa-youtube-play"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <!-- Portfolio Item End -->
-
-                <!-- Portfolio Item Start -->
-                <div class="gallery-item branding" style="position: absolute; left: 217px; top: 122px;">
-                  <div class="thumb">
-                    <img class="img-fullwidth" src="images/gallery/s5.jpg" alt="project">
-                    <div class="overlay-shade"></div>
-                    <div class="text-holder text-center">
-                      <h5 class="title">Gallery Title Here</h5>
-                    </div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                          <a class="popup-vimeo" href="https://vimeo.com/45830194"><i class="fa fa-play"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <!-- Portfolio Item End -->
-
-                <!-- Portfolio Item Start -->
-                <div class="gallery-item design" style="position: absolute; left: 434px; top: 122px;">
-                  <div class="thumb">
-                    <div class="flexslider-wrapper">
-                      <div class="flexslider">
-                        
-                      <div class="flex-viewport" style="overflow: hidden; position: relative;"><ul class="slides" style="width: 1000%; transition-duration: 0.6s; transform: translate3d(-636px, 0px, 0px);"><li class="clone" aria-hidden="true" style="width: 212px; margin-right: 0px; float: left; display: block;"><a href="images/gallery/s3.jpg" title="Portfolio Gallery - Photo 3"><img src="images/gallery/s3.jpg" alt="" draggable="false"></a></li>
-                          <li style="width: 212px; margin-right: 0px; float: left; display: block;" class="" data-thumb-alt=""><a href="images/gallery/s1.jpg" title="Portfolio Gallery - Photo 1"><img src="images/gallery/s1.jpg" alt="" draggable="false"></a></li>
-                          <li data-thumb-alt="" class="" style="width: 212px; margin-right: 0px; float: left; display: block;"><a href="images/gallery/s2.jpg" title="Portfolio Gallery - Photo 2"><img src="images/gallery/s2.jpg" alt="" draggable="false"></a></li>
-                          <li data-thumb-alt="" class="flex-active-slide" style="width: 212px; margin-right: 0px; float: left; display: block;"><a href="images/gallery/s3.jpg" title="Portfolio Gallery - Photo 3"><img src="images/gallery/s3.jpg" alt="" draggable="false"></a></li>
-                        <li style="width: 212px; margin-right: 0px; float: left; display: block;" class="clone" aria-hidden="true"><a href="images/gallery/s1.jpg" title="Portfolio Gallery - Photo 1"><img src="images/gallery/s1.jpg" alt="" draggable="false"></a></li></ul></div><ol class="flex-control-nav flex-control-paging"><li><a href="#" class="">1</a></li><li><a href="#" class="">2</a></li><li><a href="#" class="flex-active">3</a></li></ol><ul class="flex-direction-nav"><li class="flex-nav-prev"><a class="flex-prev" href="#">Previous</a></li><li class="flex-nav-next"><a class="flex-next" href="#">Next</a></li></ul></div>
-                    </div>
-                    <div class="overlay-shade"></div>
-                    <div class="text-holder text-center">
-                      <h5 class="title">Gallery Title Here</h5>
-                    </div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                          <a href="#"><i class="fa fa-picture-o"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <!-- Portfolio Item End -->
-
-                <!-- Portfolio Item Start -->
-                <div class="gallery-item photography" style="position: absolute; left: 0px; top: 245px;">
-                  <div class="thumb">
-                    <img class="img-fullwidth" src="images/gallery/s1.jpg" alt="project">
-                    <div class="overlay-shade"></div>
-                    <div class="text-holder text-center">
-                      <h5 class="title">Gallery Title Here</h5>
-                    </div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                          <a data-lightbox="image" href="images/gallery/s1.jpg"><i class="fa fa-plus"></i></a>
-                          <a href="#"><i class="fa fa-link"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                    <a class="hover-link" data-lightbox="image" href="images/gallery/s2.jpg">View more</a>
-                  </div>
-                </div>
-                <!-- Portfolio Item End -->
-
-                <!-- Portfolio Item Start -->
-                <div class="gallery-item design" style="position: absolute; left: 217px; top: 245px;">
-                  <div class="thumb">
-                    <div class="flexslider-wrapper" data-direction="vertical">
-                      <div class="flexslider">
-                        
-                      <div class="flex-viewport" style="overflow: hidden; position: relative; height: 118px;"><ul class="slides" style="height: 1000%; position: absolute; width: 100%; transition-duration: 0.6s; transform: translate3d(0px, -354px, 0px);"><li class="clone" aria-hidden="true" style="display: block;"><a href="images/gallery/s4.jpg" title="Portfolio Gallery - Photo 3"><img src="images/gallery/s4.jpg" alt="" draggable="false"></a></li>
-                          <li style="display: block;" class="" data-thumb-alt=""><a href="images/gallery/s6.jpg" title="Portfolio Gallery - Photo 1"><img src="images/gallery/s6.jpg" alt="" draggable="false"></a></li>
-                          <li data-thumb-alt="" class="" style="display: block;"><a href="images/gallery/s5.jpg" title="Portfolio Gallery - Photo 2"><img src="images/gallery/s5.jpg" alt="" draggable="false"></a></li>
-                          <li data-thumb-alt="" class="flex-active-slide" style="display: block;"><a href="images/gallery/s4.jpg" title="Portfolio Gallery - Photo 3"><img src="images/gallery/s4.jpg" alt="" draggable="false"></a></li>
-                        <li style="display: block;" class="clone" aria-hidden="true"><a href="images/gallery/s6.jpg" title="Portfolio Gallery - Photo 1"><img src="images/gallery/s6.jpg" alt="" draggable="false"></a></li></ul></div><ol class="flex-control-nav flex-control-paging"><li><a href="#" class="">1</a></li><li><a href="#" class="">2</a></li><li><a href="#" class="flex-active">3</a></li></ol><ul class="flex-direction-nav"><li class="flex-nav-prev"><a class="flex-prev" href="#">Previous</a></li><li class="flex-nav-next"><a class="flex-next" href="#">Next</a></li></ul></div>
-                    </div>
-                    <div class="overlay-shade"></div>
-                    <div class="text-holder text-center">
-                      <h5 class="title">Gallery Title Here</h5>
-                    </div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                          <a href="#"><i class="fa fa-picture-o"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <!-- Portfolio Item End -->
-
-                <!-- Portfolio Item Start -->
-                <div class="gallery-item photography" style="position: absolute; left: 434px; top: 245px;">
-                  <div class="thumb">
-                    <img class="img-fullwidth" src="images/gallery/s1.jpg" alt="project">
-                    <div class="overlay-shade"></div>
-                    <div class="text-holder text-center">
-                      <h5 class="title">Gallery Title Here</h5>
-                    </div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                          <a data-lightbox="image" href="images/gallery/s1.jpg"><i class="fa fa-plus"></i></a>
-                          <a href="#"><i class="fa fa-link"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                    <a class="hover-link" data-lightbox="image" href="images/gallery/s2.jpg">View more</a>
-                  </div>
-                </div>
-                <!-- Portfolio Item End -->
+              
 
               </div>
               <!-- End Portfolio Gallery Grid -->

@@ -1,19 +1,17 @@
 
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
-
-<!-- Mirrored from html.kodesolution.live/m/echarity/v2/demo/index-mp-layout5.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 19 Feb 2022 10:09:24 GMT -->
 <head>
 
 <!-- Meta Tags -->
 <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
-<meta name="description" content="eCharity - Nonprofit, Crowdfunding & Charity HTML5 Template" />
-<meta name="keywords" content="Charity,Nonprofit,Crowdfunding,Donation & Fundraising" />
+<meta name="description" content="RCCG Resurrection Ground Parish was founded on the 6th of October, 2013 and was pioneered by Pastor Joseph Ugochukwu Okenwa who is also the Country Coordinator of The Redeemed Christian Church of God Angola." />
+<meta name="keywords" content="RCCG Resurrection Ground Parish was founded on the 6th of October, 2013 and was pioneered by Pastor Joseph Ugochukwu Okenwa who is also the Country Coordinator of The Redeemed Christian Church of God Angola." />
 <meta name="author" content="ThemeMascot" />
 
 <!-- Page Title -->
-<title>eCharity - Nonprofit, Crowdfunding & Charity HTML5 Template</title>
+<title>{{ config('app.name')}} - @yield('title')</title>
 
 <!-- Favicon and Touch Icons -->
 <link href="/images/favicon.png" rel="shortcut icon" type="image/png">
