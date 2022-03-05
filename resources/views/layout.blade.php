@@ -8,7 +8,6 @@
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
 <meta name="description" content="RCCG Resurrection Ground Parish was founded on the 6th of October, 2013 and was pioneered by Pastor Joseph Ugochukwu Okenwa who is also the Country Coordinator of The Redeemed Christian Church of God Angola." />
 <meta name="keywords" content="RCCG Resurrection Ground Parish was founded on the 6th of October, 2013 and was pioneered by Pastor Joseph Ugochukwu Okenwa who is also the Country Coordinator of The Redeemed Christian Church of God Angola." />
-<meta name="author" content="ThemeMascot" />
 
 <!-- Page Title -->
 <title>{{ config('app.name')}} - @yield('title')</title>

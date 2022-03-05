@@ -120,7 +120,7 @@
                       data-splitin="none" 
                       data-splitout="none" 
                       data-responsive_offset="on"
-                      style="z-index: 7; white-space: nowrap; font-weight:700;">Donate
+                      style="z-index: 7; white-space: nowrap; font-weight:500;">Our Mandate
                     </div>
 
                     <!-- LAYER NR. 2 -->
@@ -145,7 +145,7 @@
                       data-splitin="none" 
                       data-splitout="none" 
                       data-responsive_offset="on"
-                      style="z-index: 7; white-space: nowrap; font-weight:600; border-radius: 30px;">For the poor children 
+                      style="z-index: 7; white-space: nowrap; font-weight:600; border-radius: 30px;">Church Planting and Evangelism
                     </div>
 
                     <!-- LAYER NR. 3 -->
@@ -170,7 +170,8 @@
                       data-splitin="none" 
                       data-splitout="none" 
                       data-responsive_offset="on"
-                      style="z-index: 5; white-space: nowrap; letter-spacing:0px; font-weight:400;">Every day we bring hope to millions of children in the world's<br>  hardest places as a sign of God's unconditional love.
+                      style="z-index: 5; white-space: nowrap; letter-spacing:0px; font-weight:400;">
+                    To effect prompt implementation of the growth programs of the Redeemed Christian Church of <br>God on church planting and house fellowship development at the grass root level.
                     </div>
 
                     <!-- LAYER NR. 4 -->
@@ -193,7 +194,7 @@
                       data-splitin="none" 
                       data-splitout="none" 
                       data-responsive_offset="on"
-                      style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a class="btn btn-colored btn-lg btn-theme-colored pl-20 pr-20" href="#">Donate Now</a> 
+                      style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a class="btn btn-colored btn-lg btn-theme-colored pl-20 pr-20" href="/about">Read More</a> 
                     </div>
                 </li>
 
@@ -225,7 +226,7 @@
                   data-splitin="none" 
                   data-splitout="none" 
                   data-responsive_offset="on"
-                  style="z-index: 7; white-space: nowrap; font-weight:600;"><span class="">Help</span> The Poor
+                  style="z-index: 7; white-space: nowrap; font-weight:600;"><span class="">House</span> Fellowship 
                 </div>
 
                 <!-- LAYER NR. 2 -->
@@ -250,7 +251,7 @@
                   data-splitin="none" 
                   data-splitout="none" 
                   data-responsive_offset="on"
-                  style="z-index: 7; white-space: nowrap; font-weight:600;">For Their Better Future 
+                  style="z-index: 7; white-space: nowrap; font-weight:600;"> LOVE   UNITY   PEACE  
                 </div>
 
                 <!-- LAYER NR. 3 -->
@@ -275,7 +276,7 @@
                   data-splitin="none" 
                   data-splitout="none" 
                   data-responsive_offset="on"
-                  style="z-index: 5; white-space: nowrap; letter-spacing:0px; font-weight:400;">Every day we bring hope to millions of children in the world's<br>  hardest places as a sign of God's unconditional love.
+                  style="z-index: 5; white-space: nowrap; letter-spacing:0px; font-weight:400;">Our primary mission is to make heaven and to take as many people as possible too.
                 </div>
 
                 <!-- LAYER NR. 4 -->
@@ -298,7 +299,7 @@
                   data-splitin="none" 
                   data-splitout="none" 
                   data-responsive_offset="on"
-                  style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a class="btn btn-colored btn-lg btn-flat btn-theme-colored pl-20 pr-20" href="#">Donate Now</a> 
+                  style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a class="btn btn-colored btn-lg btn-flat btn-theme-colored pl-20 pr-20" href="/about">Read More</a> 
                 </div>
             </li>
 
@@ -568,73 +569,20 @@
     </section>
     
     <!-- Section: Project Start Form -->
-    <section>
-      <div class="container pt-0 pb-0">
+        <section class="divider parallax layer-overlay overlay-deeper" data-bg-img="images/bg/bg5.jpg">
+      <div class="container">
         <div class="section-content">
-          <div class="row equal-height-inner home-boxes" data-margin-top="-100px">
-            <div class="col-sm-12 col-md-3 pl-0 pl-sm-15 pr-0 pr-sm-15 sm-height-auto mt-sm-0 wow fadeInLeft animation-delay2">
-              <div class="sm-height-auto bg-theme-colored-lighter4">
-                <div class="text-center pt-30 pb-sm-30">
-                  <div class="icon-box text-center">
-                    <a class="icon bg-white icon-circled icon-xl" href="#"> <i class="flaticon-charity-hand-holding-a-stalk  text-theme-colored"></i> </a>
-                    <div class="p-10">
-                      <h4 class="text-uppercase text-white mt-0">Become a Volunteer</h4>
-                      <p class="text-white">Lorem ipsum dolor sit amet, <br> conse ctetur adipisicing.</p>
-                      <a href="page-become-a-volunteer.html" class="btn btn-border btn-circled btn-transparent btn-sm">Join us Now</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
+          <div class="row">
+            <div class="col-md-7">
+              <h2 class="line-height-1 mt-0 mb-0 pb-20 text-white">Our<span class="text-theme-colored"> Mandate</span></h2>
+              <p class="mb-30 text-white">To be the best training unit of the Redeemed Christian Church of God in the world, and lead the church to achieve the highest excellence in church planting and House Fellowship Development.</p>
+              <a class="btn btn-dark btn-theme-colored btn-lg btn-flat pull-left pl-30 pr-30" href="/about">Read More</a>
             </div>
-            <div class="col-sm-12 col-md-3 pl-0 pl-sm-15 pr-0 pr-sm-15 sm-height-auto mt-sm-0 wow fadeInLeft animation-delay2">
-              <div class="sm-height-auto bg-theme-colored-lighter3">
-                <div class="text-center pt-30 pb-sm-30">
-                  <div class="icon-box text-center">
-                    <a class="icon bg-white icon-circled icon-xl" href="#"> <i class="flaticon-charity-dove-of-peace text-theme-colored"></i> </a>
-                    <div class="p-10">
-                      <h4 class="text-uppercase text-white mt-0">Adopt a Child</h4>
-                      <p class="text-white">Lorem ipsum dolor sit amet, <br> conse ctetur adipisicing.</p>
-                      <a href="page-become-a-volunteer.html" class="btn btn-border btn-circled btn-transparent btn-sm">Contact us</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-sm-12 col-md-3 pl-0 pl-sm-15 pr-0 pr-sm-15 sm-height-auto mt-sm-0 wow fadeInLeft animation-delay3">
-              <div class="sm-height-auto bg-theme-colored-lighter2">
-                <div class="text-center pt-30 pb-sm-30">
-                  <div class="icon-box text-center">
-                    <a class="icon bg-white icon-circled icon-xl" href="#"> <i class="flaticon-charity-make-a-donation text-theme-colored"></i> </a>
-                    <div class="p-10">
-                      <h4 class="text-uppercase text-white mt-0">Get Involved</h4>
-                      <p class="text-white">Lorem ipsum dolor sit amet, <br> conse ctetur adipisicing.</p>
-                      <a href="page-become-a-volunteer.html" class="btn btn-border btn-circled btn-transparent btn-sm">Donate Us</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-sm-12 col-md-3 pl-0 pl-sm-15 pr-0 pr-sm-15 sm-height-auto mt-sm-0 wow fadeInLeft animation-delay4">
-              <div class="sm-height-auto bg-theme-colored">
-                <div class="text-center pt-30 pb-sm-30">
-                  <div class="icon-box text-center">
-                    <a class="icon bg-white icon-circled icon-xl" href="#"> <i class="flaticon-charity-responsible-use-of-water text-theme-colored"></i> </a>
-                    <div class="p-10">
-                      <h4 class="text-uppercase text-white mt-0">Emergency Case</h4>
-                      <h3 class="text-white">+(012) 345 6789</h3>
-                      <a href="page-become-a-volunteer.html" class="btn btn-border btn-circled btn-transparent btn-sm">Contact Now</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
+            
           </div>
         </div>
-      </div>
+      </div>      
     </section>
-
-  
-
     <section id="gallery" class="bg-lighter">
       <div class="container">
         <div class="section-content">
