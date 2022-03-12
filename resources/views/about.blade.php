@@ -32,8 +32,8 @@
                 <h5>Pastor in charge of Parish</h5>
                   <ul class="list theme-colored">
                     <li><strong>Name</strong> : AP Ekpe Declan C.</li>
-                    <li><strong>Email</strong> : +244 927 556 703</li>
-                    <li><strong>Phone</strong> : declords@yahoo.com</li>
+                    <li><strong>Phone</strong> : +244 927 556 703</li>
+                    <li><strong>Email</strong> : declords@yahoo.com</li>
                   </ul>
 
                  <h3 class="text-theme-colored text-uppercase mt-10">CORE OBJECTIVE:</h3>
@@ -69,6 +69,22 @@
           </div>
         </div>
         <div class="row mb-30">
+            <div class="col-md-3">
+              <div class="team-member maxwidth400">
+                <div class="thumb"><img alt="" src="/images/team/0.jpg" class="img-fullwidth"></div>
+                <div class="info">
+                  <h5 class="mb-0">RCCG Resurrection Ground (Headquarter) Parish, Luanda, Angola.</h5>
+                  <p><b><i class="fa fa-user"></i></b> AP Ekpe Declan C.
+                  <br><b><i class="fa fa-mobile"></i></b> +244 927 556 703</p>
+                  <ul class="styled-icons icon-theme-colored icon-circled icon-dark icon-sm mt-10 mb-0">
+                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
             <div class="col-md-3">
               <div class="team-member maxwidth400">
                 <div class="thumb"><img alt="" src="/images/team/1.jpg" class="img-fullwidth"></div>

@@ -9,7 +9,6 @@
         <div class="rev_slider_wrapper">
           <div class="rev_slider" data-version="5.0">
             <ul>
-
                  <!-- SLIDE 1 -->
                 <li data-index="rs-1" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="/images/bg/bg4.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide 1" data-description="">
                     <!-- MAIN IMAGE -->
@@ -95,7 +94,7 @@
                  <!-- SLIDE 2 -->
                 <li data-index="rs-2" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="/images/bg/bg5.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide 2" data-description="">
                     <!-- MAIN IMAGE -->
-                    <img src="/images/bg/bg5.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="10" data-no-retina>
+                    <img src="/images/bg/bg2.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="10" data-no-retina>
                     <!-- LAYERS -->
 
                     <!-- LAYER NR. 1 -->
@@ -465,9 +464,26 @@
             </div>
             <div class="col-md-5">
              <div class="row mb-10 pt-10">
-               <div class="col-md-12">
-                 <img alt="" src="/images/about/c4.jpg" class="img-fullwidth">
-               </div>
+                <div class="col-sm-12 col-md-12 mb-30">
+                  <div class="team maxwidth400 bg-lighter">
+                    <div class="row">
+                      <div class="col-sm-6 col-md-6 xs-text-center pb-sm-20">
+                        <div class="thumb"><img class="img-fullwidth" src="/images/team/5.jpg" alt=""></div>
+                      </div>
+                      <div class="col-sm-6 col-md-6 xs-text-center pb-sm-20 pt-20">
+                        <div class="content">
+                          <h4 class="author text-theme-colored">Pastor Joseph Okenwa</h4>
+                          <h6 class="title text-dark">COORDINATOR, RCCG ANGOLA</h6>
+                          <ul class="contact-area mt-10">
+                            <li><a href="#"><i class="pe-7s-call"></i>+244 945 452 222</a></li>
+                            <li><a href="#"><i class="fa fa-envelope-o"></i>northpole62001@icloud.com</a></li>
+                          </ul>
+                          
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
              </div>
             
             </div>
@@ -489,6 +505,32 @@
         </div>
         <div class="section-content">
           <div class="owl-carousel-3col" data-dots="true" data-nav="true">
+            <div class="item">
+              <div class="causes mb-sm-50">
+                <div class="thumb">
+                  <img class="img-fullwidth" alt="" src="/images/team/0.jpg">
+                </div>
+                <div class="causes-details clearfix">
+                  <div class="p-30 p-sm-15 bg-lighter">
+                    <h4><a href="#">AP Ekpe Declan C.</a></h4>
+                    <p>RCCG Resurrection Ground (Headquarter) Parish, Luanda, Angola.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="causes mb-sm-50">
+                <div class="thumb">
+                  <img class="img-fullwidth" alt="" src="/images/team/1.jpg">
+                </div>
+                <div class="causes-details clearfix">
+                  <div class="p-30 p-sm-15 bg-lighter">
+                    <h4><a href="#">Pastor Adenuga Damilola.</a></h4>
+                    <p>RCCG City Church Parish, Talatona, Luanda Angola.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
             <div class="item">
               <div class="causes mb-sm-50">
                 <div class="thumb">
@@ -528,19 +570,7 @@
                 </div>
               </div>
             </div>
-            <div class="item">
-              <div class="causes mb-sm-50">
-                <div class="thumb">
-                  <img class="img-fullwidth" alt="" src="/images/team/1.jpg">
-                </div>
-                <div class="causes-details clearfix">
-                  <div class="p-30 p-sm-15 bg-lighter">
-                    <h4><a href="#">Pastor Adenuga Damilola.</a></h4>
-                    <p>RCCG City Church Parish, Talatona, Luanda Angola.</p>
-                  </div>
-                </div>
-              </div>
-            </div>
+            
             
           </div> 
         </div>
@@ -553,7 +583,11 @@
         <div class="section-content">
           <div class="row">
             <div class="col-md-4 col-md-offset-1">
-              <img alt="" src="/images/about/3.png" class="img-fullwidth">
+              <h4 class="text-gray-dimgray font-weight-400"><em>Worship Session at Resurrection Ground Parish. The worship sessions are spiritually electrifying and refreshing.</em></h4>
+              <video width="" style="width:100%;" controls="controls">
+                  <source src="/images/praise.mp4" type="video/mp4">
+                  Your browser does not support HTML5 video.
+              </video>
             </div>
             <div class="col-md-7">
               <h2 class="mb-30 mb-sm-10 mt-0 mt-sm-10 line-height-1">How <span class="text-theme-colored"> Can You Help?</span></h2>
@@ -569,7 +603,7 @@
     </section>
     
     <!-- Section: Project Start Form -->
-        <section class="divider parallax layer-overlay overlay-deeper" data-bg-img="images/bg/bg5.jpg">
+        <section class="divider parallax layer-overlay overlay-deeper" data-bg-img="images/bg/bg2.jpg">
       <div class="container">
         <div class="section-content">
           <div class="row">
@@ -592,25 +626,46 @@
               <div class="event media mb-20 no-bg no-border">
                 <div class="media-body pl-20">
                   <div class="event-content pull-left flip">
-                    <h4 class="event-title media-heading font-raleway font-weight-700"><a href="#">Every Sunday: Worship Service</a></h4>
-                    <span class="mb-10 text-gray-darkgray mr-10"><i class="fa fa-clock-o mr-5 text-theme-colored"></i> 7:30am - 11.30 am</span>
-                    <span class="text-gray-darkgray"><i class="fa fa-map-marker mr-5"></i> Church Auditorium</span>
-                    <p class="mt-5">First Sunday: Thanksgiving Service</p>
-                    <p class="mt-5">Last Sunday: Prophetic Prayer Service</p>
+                    <h4 class="event-title media-heading font-raleway font-weight-700"><a href="#">Every Sunday: </a></h4>
+                    <span class="mb-10 text-gray-darkgray mr-10"><i class="fa fa-clock-o mr-5 text-theme-colored"></i>8:00 hrs - 8:30 hrs</span>
+                    <span class="text-gray-darkgray"><i class="fa fa-map-marker mr-5"></i> Workers' Meeting</span><br>
+                    <span class="mb-10 text-gray-darkgray mr-10"><i class="fa fa-clock-o mr-5 text-theme-colored"></i>8:30 hrs - 9:00 hrs</span>
+                    <span class="text-gray-darkgray"><i class="fa fa-map-marker mr-5"></i> Sunday School Class</span><br>
+                    <span class="mb-10 text-gray-darkgray mr-10"><i class="fa fa-clock-o mr-5 text-theme-colored"></i>9:05 hrs - 11:30 hrs</span>
+                    <span class="text-gray-darkgray"><i class="fa fa-map-marker mr-5"></i> Main Sunday Service</span>
+                   
+                  </div>
+                </div>
+              </div>
+
+              <div class="event media mb-20 no-bg no-border">
+                <div class="media-body pl-20">
+                  <div class="event-content pull-left flip">
+                    <h4 class="event-title media-heading font-raleway font-weight-700"><a href="#">Tuesdays</a></h4>
+                    <span class="mb-10 text-gray-darkgray mr-10"><i class="fa fa-clock-o mr-5 text-theme-colored"></i> 18:00 hrs - 19:30 hrs</span>
+                    <span class="text-gray-darkgray"><i class="fa fa-map-marker mr-5"></i>Bible Study (Digging Deep) </span>
+                  </div>
+                </div>
+              </div>
+
+              <div class="event media mb-20 no-bg no-border">
+                <div class="media-body pl-20">
+                  <div class="event-content pull-left flip">
+                    <h4 class="event-title media-heading font-raleway font-weight-700"><a href="#">Thursdays</a></h4>
+                    <span class="mb-10 text-gray-darkgray mr-10"><i class="fa fa-clock-o mr-5 text-theme-colored"></i> 18:00hrs - 19:30hrs</span>
+                    <span class="text-gray-darkgray"><i class="fa fa-map-marker mr-5"></i>Faith Clinic </span>
                   </div>
                 </div>
               </div>
               <div class="event media mb-20 no-bg no-border">
                 <div class="media-body pl-20">
                   <div class="event-content pull-left flip">
-                    <h4 class="event-title media-heading font-raleway font-weight-700"><a href="#">Weekly Service</a></h4>
-                    <span class="mb-10 text-gray-darkgray mr-10"><i class="fa fa-clock-o mr-5 text-theme-colored"></i> at 6:30pm - 8:00pm</span>
-                    <span class="text-gray-darkgray"><i class="fa fa-map-marker mr-5"></i> @ designated locations</span>
-                    <p class="mt-5">Bible Study & Prayer Meeting (For inquiry, visit our <a href="/contact">Contact page</a> for contact details)</p>
+                    <h4 class="event-title media-heading font-raleway font-weight-700"><a href="#">First Monday - Wednesday Of Every Month</a></h4>
+                    <span class="mb-10 text-gray-darkgray mr-10"><i class="fa fa-clock-o mr-5 text-theme-colored"></i> 18:00 hrs - 19:00 hrs daily</span>
+                    <span class="text-gray-darkgray"><i class="fa fa-map-marker mr-5"></i>Fasting & Prayers program tagged "The God Of Every Month" </span>
                   </div>
                 </div>
               </div>
-              
             </div>
             <div class="col-md-7 wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s;">
              

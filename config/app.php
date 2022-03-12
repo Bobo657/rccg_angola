@@ -15,7 +15,7 @@ return [
 
     'name' => env('APP_NAME', 'Laravel'),
 
-    'email' => 'info@dechisspot.com',
+    'email' => 'rccgangola@hotmail.com',
 
     'phone' => '+244 945 452 222',
 
