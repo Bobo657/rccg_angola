@@ -513,7 +513,20 @@
                 <div class="causes-details clearfix">
                   <div class="p-30 p-sm-15 bg-lighter">
                     <h4><a href="#">AP Ekpe Declan C.</a></h4>
-                    <p>RCCG Resurrection Ground (Headquarter) Parish, Luanda, Angola.</p>
+                    <p>RCCG Resurrection Ground (Headquarter) Parish, Luanda, Angola</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="causes mb-sm-50">
+                <div class="thumb">
+                  <img class="img-fullwidth" alt="" src="/images/team/6.jpg">
+                </div>
+                <div class="causes-details clearfix">
+                  <div class="p-30 p-sm-15 bg-lighter">
+                    <h4><a href="#">Bro Rufino Sumonga Daniel</a></h4>
+                    <p>RCCG Portuguese affairs of the Resurrection Ground Parisha</p>
                   </div>
                 </div>
               </div>
@@ -560,7 +573,7 @@
             <div class="item">
               <div class="causes mb-sm-50">
                 <div class="thumb">
-                  <img class="img-fullwidth" alt="" src="/images/team/7.jpg">
+                  <img class="img-fullwidth" alt="" src="/images/team/3.jpg">
                 </div>
                 <div class="causes-details clearfix">
                   <div class="p-30 p-sm-15 bg-lighter">

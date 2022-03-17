@@ -87,6 +87,22 @@
             </div>
             <div class="col-md-3">
               <div class="team-member maxwidth400">
+                <div class="thumb"><img alt="" src="/images/team/6.jpg" class="img-fullwidth"></div>
+                <div class="info">
+                  <h5 class="mb-0"> RCCG Portuguese affairs of the Resurrection Ground Parisha.</h5>
+                  <p><b><i class="fa fa-user"></i></b> Bro Rufino Sumonga Daniel
+                  <br><b><i class="fa fa-mobile"></i></b> +244 927 111 732</p>
+                  <ul class="styled-icons icon-theme-colored icon-circled icon-dark icon-sm mt-10 mb-0">
+                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-3">
+              <div class="team-member maxwidth400">
                 <div class="thumb"><img alt="" src="/images/team/1.jpg" class="img-fullwidth"></div>
                 <div class="info">
                   <h5 class="mb-0"> RCCG City Church Parish, Talatona, Luanda Angola.</h5>
@@ -135,7 +151,7 @@
             </div>
             <div class="col-md-3">
               <div class="team-member maxwidth400">
-                <div class="thumb"><img alt="" src="/images/team/7.jpg" class="img-fullwidth"></div>
+                <div class="thumb"><img alt="" src="/images/team/3.jpg" class="img-fullwidth"></div>
                 <div class="info">
                   <h5 class="mb-0">RCCG, Solution Arena Parish, Zango 4, Luanda, Angola</h5>
                   <p><b><i class="fa fa-user"></i></b> Bro Mupondo Rivaldo Mayamba 
