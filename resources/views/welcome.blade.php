@@ -443,7 +443,6 @@
       </div>
     </section>
 
-
     <!-- Section: About1-->
     <section>
       <div class="container pt-0 pb-60 mt-0">
@@ -590,6 +589,112 @@
       </div>
     </section>
 
+    <section> 
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 col-sm-6 col-md-6">
+             <img src="/images/services/2.jpg" alt="">
+              <div class="image-box-details text-center p-20 pt-30 pb-30 bg-lighter">
+                
+                <p class="desc mb-20"> The hardest person to invite in a program is God. Once u have Him honouring your program, nothing else matters because everything else will fall into place. Build an airport and aircrafts will land. Raise an altar to God, and God will appear. 
+
+                Every priest has an altar: where he meets with the god he serves. If you have no altar, you are serving no god.
+
+                It has been two Sundays of awesome times in God's presence. 
+
+                <i>Be part of the remaining two Sundays because when God's holy fire falls,   strange and glorious things happen.</i></p>
+              </div>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+             <img src="/images/services/1.jpeg" alt="">
+              <div class="image-box-details text-center p-20 pt-30 pb-30 bg-lighter">
+                
+                <p class="desc mb-20"> Never has it happened in Angola that an English speaking Church was given the privilege of rocking the airwaves of Angola with fiery messages.
+
+                The words of Sis Tchinessōle Mensah, one of the presenters and visioneer of the program "Gigantes em Cristo" (Giants in Christ):
+
+                "I guess it's unusual to have an English speaking Pastor setting the Rádio waves on fire 🔥🔥🔥🔥🔥🔥"
+
+                <p>You can tune in every Monday and Friday of the week by 6:00 hours to 7:00 hours (West African time) on Radio X. 90:30 FM to make contributions and ask questions. Call or send messages to:
+                +244 938347242.</p>             
+              </div>
+            </div>
+           
+        </div>
+      </div>
+    </section>
+
+   
+    <!-- Gallery Grid 3 -->
+    <section>
+      <div class="container">
+        <div class="section-content">
+          <div class="row">
+            <div class="col-md-12">
+            
+              <!-- Portfolio Gallery Grid -->
+              <div id="grid" class="gallery-isotope grid-3 gutter clearfix">
+                <!-- Portfolio Item Start -->
+                <div class="gallery-item photography">
+                  <div class="thumb">
+                    <img class="img-fullwidth" src="/images/services/3.jpg" alt="project">
+                    <div class="overlay-shade"></div>
+                    <div class="icons-holder">
+                      <div class="icons-holder-inner">
+                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                          <a data-lightbox="image" href="/images/services/3.jpg"><i class="fa fa-plus"></i></a>
+                          <a href="#"><i class="fa fa-link"></i></a>
+                        </div>
+                      </div>
+                    </div>
+                    <a class="hover-link" data-lightbox="image" href="/images/services/3.jpg">View more</a>
+                  </div>
+                </div>
+                <!-- Portfolio Item End -->
+                
+                <!-- Portfolio Item Start -->
+                <div class="gallery-item branding">
+                  <div class="thumb">
+                    <img class="img-fullwidth" src="/images/services/4.jpg" alt="project">
+                    <div class="overlay-shade"></div>
+                    <div class="icons-holder">
+                      <div class="icons-holder-inner">
+                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                          <a href="#"><i class="fa fa-link"></i></a>
+                          <a href="#"><i class="fa fa-heart-o"></i></a>
+                        </div>
+                      </div>
+                    </div>
+                    <a class="hover-link" data-lightbox="image" href="/images/services/4.jpg">View more</a>
+                  </div>
+                </div>
+                <!-- Portfolio Item End -->
+
+                <!-- Portfolio Item Start -->
+                <div class="gallery-item design">
+                  <div class="thumb">
+                    <img class="img-fullwidth" src="/images/services/5.jpg" alt="project">
+                    <div class="overlay-shade"></div>
+                    <div class="icons-holder">
+                      <div class="icons-holder-inner">
+                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                          <a href="#"><i class="fa fa-link"></i></a>
+                        </div>
+                      </div>
+                    </div>
+                    <a class="hover-link" data-lightbox="image" href="/images/services/5.jpg">View more</a>
+                  </div>
+                </div>
+                <!-- Portfolio Item End -->
+              </div>
+              <!-- End Portfolio Gallery Grid -->
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <!-- Section: how can help? 1  -->
     <section class="bg-lighter">
       <div class="container pb-20">
@@ -687,7 +792,7 @@
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item photography" style="position: absolute; left: 0px; top: 0px;">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="images/gallery/1.jpg" alt="project">
+                    <img class="img-fullwidth" src="/images/gallery/1.jpg" alt="project">
                     <div class="overlay-shade"></div>
                   </div>
                 </div>
@@ -696,7 +801,7 @@
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item branding" style="position: absolute; left: 217px; top: 0px;">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="images/gallery/2.jpg" alt="project">
+                    <img class="img-fullwidth" src="/images/gallery/2.jpg" alt="project">
                     <div class="overlay-shade"></div>
                   </div>
                 </div>

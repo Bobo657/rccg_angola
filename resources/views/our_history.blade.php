@@ -21,7 +21,7 @@
         <div class="section-content">
           <div class="row">
             <div class="col-xs-6 col-sm-6 col-md-6 mb-40">
-              <a class="image-popup-vertical-fit" title="Title Here 1" href="images/bg/bg.jpg"><img src="images/bg/bg.jpg" alt=""></a>
+              <a class="image-popup-vertical-fit" title="Title Here 1" href="images/bg/bg.jpg"><img src="/images/bg/bg.jpg" alt=""></a>
             </div>
             <div class="col-xs-6 col-sm-6 col-md-6 mb-40">
               <h3>Our History</h3>

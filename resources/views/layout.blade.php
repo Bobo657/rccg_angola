@@ -104,7 +104,7 @@
     <div class="container pt-60 pb-30">
       <div class="row">
         <div class="col-md-6 col-md-offset-3 text-center">
-          <img src="images/logo-wide.png" alt="">
+          <img src="/images/logo-wide.png" alt="">
           <p class="font-12 mt-20 mb-20">The Bible is replete with virtually inexhaustible provisions for Man’s comfort here on earth and in eternity. The oldest singular limitation is Man’s refusal to simply obey the WORD of GOD. </p>
          
         </div>
