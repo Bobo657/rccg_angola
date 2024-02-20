@@ -433,7 +433,7 @@
                         </div>
                     </div>
                 </div>
-                
+
                 <div class="item">
                     <div class="causes mb-sm-50">
                         <div class="thumb">
@@ -498,24 +498,27 @@
         <div class="section-content">
             <div class="row">
                 <div class="col-xs-6 col-sm-6 col-md-6 mb-40">
-                      <img src="/images/gallery/3.jpg" alt="">
+                    <img src="/images/gallery/3.jpg" alt="">
                     <p>Youth choir ministering during their Youth Weekend.</p>
                 </div>
                 <div class="col-xs-6 col-sm-6 col-md-6 mb-40">
-                      <img src="/images/gallery/5.jpg" alt="">
-                    <p>The Great Men of Valor from Resurrection Ground Parish take a group photo after the Men's Weekend celebration.</p>
+                    <img src="/images/gallery/5.jpg" alt="">
+                    <p>The Great Men of Valor from Resurrection Ground Parish take a group photo after the Men's Weekend
+                        celebration.</p>
                 </div>
                 <div class="col-xs-6 col-sm-6 col-md-6 mb-40">
-                      <img src="/images/gallery/7.jpg" alt="">
-                    <p>The Country Coordinator of RCCG Angola blessing the Good Women of Resurrection Ground Parish during their Women's Weekend celebration.</p>
+                    <img src="/images/gallery/7.jpg" alt="">
+                    <p>The Country Coordinator of RCCG Angola blessing the Good Women of Resurrection Ground Parish
+                        during their Women's Weekend celebration.</p>
                 </div>
                 <div class="col-xs-6 col-sm-6 col-md-6 mb-40">
-                      <img src="/images/gallery/6.jpg" alt="">
+                    <img src="/images/gallery/6.jpg" alt="">
                     <p>The Excellent Men's Choir giving a special number before the message at the Men's Weekend.</p>
                 </div>
                 <div class="col-xs-6 col-sm-6 col-md-6 mb-40">
-                      <img src="/images/gallery/4.jpg" alt="">
-                    <p>A group of youths of Resurrection Ground Parish with their President and Vice President after the Youth Weekend.</p>
+                    <img src="/images/gallery/4.jpg" alt="">
+                    <p>A group of youths of Resurrection Ground Parish with their President and Vice President after the
+                        Youth Weekend.</p>
                 </div>
             </div>
         </div>
@@ -621,6 +624,22 @@
                         Tithes, offering and free will donations from a godly heart. If you would like to take a step of
                         faith to give to the church, there are several options.</p>
 
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <blockquote>
+                        <p>If a Believer stops praying, the devil starts playing with him but if he starts praying fervently, he starts messing with the devil. </p>
+                        <footer>D.E.C</footer>
+                    </blockquote>
+                </div>
+
+                <div class="col-md-6">
+                    <blockquote class="theme-colored">
+                        <p>A Believer who cannot hear from God nor see  in the spirit is disabled; and disability is a hinderer.</p>
+                        <footer>D.E.C</footer>
+                    </blockquote>
                 </div>
             </div>
         </div>

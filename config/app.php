@@ -21,6 +21,8 @@ return [
 
     'address' => 'Distrito Urbano Rangel, Avenida Deolinda Rodrigues, Luanda, Angola.',
 
+    'THEME' => 'echarity',
+
     /*
     |--------------------------------------------------------------------------
     | Application Environment
