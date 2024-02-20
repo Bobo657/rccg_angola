@@ -15,13 +15,9 @@ return [
 
     'name' => env('APP_NAME', 'Laravel'),
 
-    'email' => 'rccgangola@hotmail.com',
+    'email' => 'ekpedeclan@gmail.com',
 
-    'phone' => '+244 945 452 222',
-
-    'phone1' => '+244 927 556 703',
-
-    'phone2' => '+244 928 543 237',
+    'phone' => '+244 938 177 381',
 
     'address' => 'Distrito Urbano Rangel, Avenida Deolinda Rodrigues, Luanda, Angola.',
 

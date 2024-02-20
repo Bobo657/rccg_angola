@@ -37,7 +37,7 @@
           <div class="contact-info text-center">
             <i class="fa fa-phone font-36 mb-10 text-theme-colored"></i>
             <h4>Call Us</h4>
-            <h6 class="text-gray">Phone: {{ config('app.phone')}}<br> Phone: {{ config('app.phone1')}}<br>Phone: {{ config('app.phone2')}}
+            <h6 class="text-gray">Phone: {{ config('app.phone')}}
 
             </h6>
           </div>

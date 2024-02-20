@@ -31,9 +31,9 @@
 
                 <h5>Pastor in charge of Parish</h5>
                   <ul class="list theme-colored">
-                    <li><strong>Name</strong> : AP Ekpe Declan C.</li>
-                    <li><strong>Phone</strong> : +244 927 556 703</li>
-                    <li><strong>Email</strong> : declords@yahoo.com</li>
+                    <li><strong>Name</strong> : Pastor Ekpe Declan C.</li>
+                    <li><strong>Phone</strong> : {{ config('app.phone')}}</li>
+                    <li><strong>Email</strong> : {{ config('app.email')}}</li>
                   </ul>
 
                  <h3 class="text-theme-colored text-uppercase mt-10">CORE OBJECTIVE:</h3>
@@ -74,7 +74,7 @@
                 <div class="thumb"><img alt="" src="/images/team/0.jpg" class="img-fullwidth"></div>
                 <div class="info">
                   <h5 class="mb-0">RCCG Resurrection Ground (Headquarter) Parish, Luanda, Angola.</h5>
-                  <p><b><i class="fa fa-user"></i></b> AP Ekpe Declan C.
+                  <p><b><i class="fa fa-user"></i></b> Pastor Ekpe Declan C.
                   <br><b><i class="fa fa-mobile"></i></b> +244 927 556 703</p>
                   <ul class="styled-icons icon-theme-colored icon-circled icon-dark icon-sm mt-10 mb-0">
                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -89,7 +89,7 @@
               <div class="team-member maxwidth400">
                 <div class="thumb"><img alt="" src="/images/team/6.jpg" class="img-fullwidth"></div>
                 <div class="info">
-                  <h5 class="mb-0"> RCCG Portuguese affairs of the Resurrection Ground Parisha.</h5>
+                  <h5 class="mb-0"> RCCG, Mount Olives Parish, Prenda, Luanda, Angola</h5>
                   <p><b><i class="fa fa-user"></i></b> Bro Rufino Sumonga Daniel
                   <br><b><i class="fa fa-mobile"></i></b> +244 927 111 732</p>
                   <ul class="styled-icons icon-theme-colored icon-circled icon-dark icon-sm mt-10 mb-0">
@@ -133,22 +133,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-md-3">
-              <div class="team-member maxwidth400">
-                <div class="thumb"><img alt="" src="/images/team/4.jpg" class="img-fullwidth"></div>
-                <div class="info">
-                  <h5 class="mb-0">RCCG, Mount Olives Parish, Prenda, Luanda, Angola</h5>
-                  <p><b><i class="fa fa-user"></i></b> Bro Quissanga Nelson
-                  <br><b><i class="fa fa-mobile"></i></b> +244 944 688 344</p>
-                  <ul class="styled-icons icon-theme-colored icon-circled icon-dark icon-sm mt-10 mb-0">
-                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                  </ul>
-                </div>
-              </div>
-            </div>
+          
             <div class="col-md-3">
               <div class="team-member maxwidth400">
                 <div class="thumb"><img alt="" src="/images/team/3.jpg" class="img-fullwidth"></div>
