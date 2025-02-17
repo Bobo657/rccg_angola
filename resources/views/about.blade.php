@@ -90,7 +90,7 @@
                 <div class="thumb"><img alt="" src="/images/team/6.jpg" class="img-fullwidth"></div>
                 <div class="info">
                   <h5 class="mb-0"> RCCG, Mount Olives Parish, Prenda, Luanda, Angola</h5>
-                  <p><b><i class="fa fa-user"></i></b> Bro Rufino Sumonga Daniel
+                  <p><b><i class="fa fa-user"></i></b> Deacon Rufino Sumonga Daniel
                   <br><b><i class="fa fa-mobile"></i></b> +244 927 111 732</p>
                   <ul class="styled-icons icon-theme-colored icon-circled icon-dark icon-sm mt-10 mb-0">
                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -136,10 +136,10 @@
           
             <div class="col-md-3">
               <div class="team-member maxwidth400">
-                <div class="thumb"><img alt="" src="/images/team/3.jpg" class="img-fullwidth"></div>
+                <div class="thumb"><img alt="" src="/images/team/7.jpg" class="img-fullwidth"></div>
                 <div class="info">
                   <h5 class="mb-0">RCCG, Solution Arena Parish, Zango 4, Luanda, Angola</h5>
-                  <p><b><i class="fa fa-user"></i></b> Bro Mupondo Rivaldo Mayamba 
+                  <p><b><i class="fa fa-user"></i></b> Bro Nduka Onyinye
                   <br><b><i class="fa fa-mobile"></i></b> +244 925 374 067</p>
                   <ul class="styled-icons icon-theme-colored icon-circled icon-dark icon-sm mt-10 mb-0">
                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>

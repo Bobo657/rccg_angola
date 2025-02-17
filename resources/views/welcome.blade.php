@@ -467,7 +467,7 @@
                         </div>
                         <div class="causes-details clearfix">
                             <div class="p-30 p-sm-15 bg-lighter">
-                                <h4><a href="#">Bro Rufino Sumonga Daniel</a></h4>
+                                <h4><a href="#">Deacon Rufino Sumonga Daniel</a></h4>
                                 <p>RCCG, Mount Olives Parish, Prenda, Luanda, Angola</p>
                             </div>
                         </div>
@@ -476,17 +476,17 @@
                 <div class="item">
                     <div class="causes mb-sm-50">
                         <div class="thumb">
-                            <img class="img-fullwidth" alt="" src="/images/team/3.jpg">
+                            <img class="img-fullwidth" alt="" src="/images/team/7.jpg">
                         </div>
                         <div class="causes-details clearfix">
                             <div class="p-30 p-sm-15 bg-lighter">
-                                <h4><a href="#">Bro Mupondo Rivaldo Mayamba </a></h4>
+                                <h4><a href="#">Bro Nduka Onyinye</a></h4>
                                 <p>RCCG, Solution Arena Parish, Zango 4, Luanda, Angola</p>
                             </div>
                         </div>
                     </div>
                 </div>
-
+              
 
             </div>
         </div>
