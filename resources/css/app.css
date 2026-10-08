@@ -1,0 +1,326 @@
+@import 'tailwindcss';
+
+@source '../views';
+@source '../../app';
+
+@font-face {
+    font-family: 'Young Serif';
+    src: url('/fonts/site/youngserif.woff2') format('woff2');
+    /* single-weight face; the wide range stops browsers faking a bold */
+    font-weight: 100 900;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Figtree';
+    src: url('/fonts/site/figtree.woff2') format('woff2');
+    font-weight: 400 700;
+    font-display: swap;
+}
+
+@theme {
+    --font-display: 'Young Serif', ui-serif, Georgia, 'Times New Roman', serif;
+    --font-sans: 'Figtree', ui-sans-serif, system-ui, sans-serif;
+
+    /* RCCG seal indigo (#28166F sampled from the logo) and its tints */
+    --color-brand-50: #f3f1fb;
+    --color-brand-100: #e8e4f8;
+    --color-brand-200: #d3ccf2;
+    --color-brand-300: #b3a8e6;
+    --color-brand-400: #8f80d6;
+    --color-brand-500: #6650c7;
+    --color-brand-600: #4a33ad;
+    --color-brand-700: #382390;
+    --color-brand-800: #28166f;
+    --color-brand-900: #1c1052;
+    --color-brand-950: #120b34;
+
+    /* Neutrals tinted toward the brand hue */
+    --color-paper: #f7f6fb;
+    --color-ink: #17122e;
+    --color-muted: #5a5574;
+    --color-line: #dedaf0;
+
+    --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@layer base {
+    html {
+        scroll-behavior: smooth;
+        -webkit-text-size-adjust: 100%;
+        scroll-padding-top: 6rem;
+    }
+
+    body {
+        font-family: var(--font-sans);
+        background: var(--color-paper);
+        color: var(--color-ink);
+        line-height: 1.65;
+        text-rendering: optimizeLegibility;
+        -webkit-font-smoothing: antialiased;
+    }
+
+    h1, h2, h3, h4 {
+        font-family: var(--font-display);
+        letter-spacing: -0.012em;
+        text-wrap: balance;
+        line-height: 1.1;
+        font-weight: 400;
+        font-variant-numeric: lining-nums;
+    }
+
+    .font-display {
+        font-variant-numeric: lining-nums;
+    }
+
+    p {
+        text-wrap: pretty;
+    }
+
+    ::selection {
+        background: var(--color-brand-800);
+        color: #fff;
+    }
+
+    :focus-visible {
+        outline: 3px solid var(--color-brand-500);
+        outline-offset: 3px;
+        border-radius: 4px;
+    }
+
+    .on-dark :focus-visible,
+    .on-dark:focus-visible {
+        outline-color: #fff;
+    }
+
+    * {
+        scrollbar-color: var(--color-brand-300) transparent;
+        caret-color: var(--color-brand-800);
+    }
+}
+
+@layer components {
+    .btn {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 0.6rem;
+        min-height: 3rem;
+        padding: 0.75rem 1.5rem;
+        border-radius: 999px;
+        font-weight: 600;
+        font-size: 0.95rem;
+        line-height: 1.2;
+        transition: transform 0.35s var(--ease-out-expo), background-color 0.25s, color 0.25s, border-color 0.25s;
+    }
+
+    .btn:active {
+        transform: translateY(1px) scale(0.98);
+    }
+
+    .btn svg {
+        transition: transform 0.35s var(--ease-out-expo);
+    }
+
+    .btn:hover svg {
+        transform: translateX(3px);
+    }
+
+    .btn-primary {
+        background: var(--color-brand-800);
+        color: #fff;
+    }
+
+    .btn-primary:hover {
+        background: var(--color-brand-700);
+    }
+
+    .btn-light {
+        background: #fff;
+        color: var(--color-brand-900);
+    }
+
+    .btn-light:hover {
+        background: var(--color-brand-100);
+    }
+
+    .btn-outline {
+        border: 1.5px solid currentColor;
+    }
+
+    .btn-outline:hover {
+        background: color-mix(in srgb, currentColor 10%, transparent);
+    }
+
+    /* Reading column for long-form content */
+    .reading {
+        max-width: 68ch;
+        font-size: 1.0625rem;
+    }
+
+    .reading p + p {
+        margin-top: 1.1em;
+    }
+
+    /* Photo hover: slow, small zoom */
+
+    /* Header: transparent over a hero, solid paper once scrolled or when the menu is open */
+    .site-header {
+        --nav-fg: var(--color-ink);
+        --nav-soft: var(--color-muted);
+        --nav-hover: var(--color-brand-50);
+        --nav-cta-bg: var(--color-brand-800);
+        --nav-cta-fg: #fff;
+        --nav-toggle-bg: #fff;
+        --nav-toggle-fg: var(--color-brand-900);
+        background: color-mix(in srgb, var(--color-paper) 95%, transparent);
+        border-bottom: 1px solid var(--color-line);
+        backdrop-filter: blur(12px);
+        transition: background-color 0.35s, border-color 0.35s, box-shadow 0.35s;
+    }
+
+    .site-header[data-overlay='true'] {
+        position: fixed;
+        inset-inline: 0;
+        top: 0;
+    }
+
+    .site-header[data-overlay='true']:not([data-solid='true']) {
+        --nav-fg: #fff;
+        --nav-soft: rgb(255 255 255 / 0.78);
+        --nav-hover: rgb(255 255 255 / 0.14);
+        --nav-cta-bg: #fff;
+        --nav-cta-fg: var(--color-brand-900);
+        --nav-toggle-bg: rgb(255 255 255 / 0.14);
+        --nav-toggle-fg: #fff;
+        background: transparent;
+        border-bottom-color: transparent;
+        backdrop-filter: none;
+    }
+
+    .site-header[data-overlay='true'][data-solid='true'] {
+        box-shadow: 0 10px 30px -20px rgb(40 22 111 / 0.4);
+    }
+
+    .nav-brand { color: var(--nav-fg); }
+    .nav-brand small { color: var(--nav-soft); }
+    .nav-link { color: var(--nav-fg); transition: background-color 0.25s, color 0.25s; }
+    .nav-link:hover, .nav-link[aria-current='page'] { background: var(--nav-hover); }
+    .site-header .nav-cta { background: var(--nav-cta-bg); color: var(--nav-cta-fg); }
+    .nav-toggle { background: var(--nav-toggle-bg); color: var(--nav-toggle-fg); border: 1px solid color-mix(in srgb, var(--nav-toggle-fg) 20%, transparent); }
+
+    /* Glass panel with a refracting inner edge */
+    .glass {
+        background: rgb(255 255 255 / 0.09);
+        border: 1px solid rgb(255 255 255 / 0.16);
+        box-shadow: inset 0 1px 0 rgb(255 255 255 / 0.18), 0 30px 60px -30px rgb(18 11 52 / 0.7);
+        backdrop-filter: blur(18px) saturate(1.2);
+        -webkit-backdrop-filter: blur(18px) saturate(1.2);
+    }
+
+    /* Slow settle on the hero photograph */
+    .hero-bg {
+        animation: hero-settle 22s var(--ease-out-expo) both;
+        will-change: transform;
+    }
+
+    @keyframes hero-settle {
+        from { transform: scale(1.08); }
+        to { transform: scale(1); }
+    }
+
+    /* Breathing status dot */
+    .dot-live {
+        position: relative;
+        display: inline-block;
+        height: 0.6rem;
+        width: 0.6rem;
+        border-radius: 999px;
+        background: var(--color-brand-300);
+    }
+
+    .dot-live[data-live='true'] { background: #34d399; }
+
+    .dot-live::after {
+        content: '';
+        position: absolute;
+        inset: 0;
+        border-radius: inherit;
+        background: inherit;
+        animation: dot-ping 2.4s cubic-bezier(0, 0, 0.2, 1) infinite;
+    }
+
+    @keyframes dot-ping {
+        0% { transform: scale(1); opacity: 0.7; }
+        80%, 100% { transform: scale(2.8); opacity: 0; }
+    }
+
+    /* Beliefs index: current topic */
+    .toc a[aria-current='true'] {
+        background: var(--color-brand-100);
+        color: var(--color-brand-900);
+        font-weight: 600;
+    }
+
+    .photo img {
+        transition: transform 0.9s var(--ease-out-expo);
+    }
+
+    .photo:hover img {
+        transform: scale(1.035);
+    }
+}
+
+/* Scroll reveal: content is visible unless JS marks the page as enhanced */
+.js [data-reveal] {
+    opacity: 0;
+    translate: 0 18px;
+    transition: opacity 0.8s var(--ease-out-expo), translate 0.8s var(--ease-out-expo);
+    transition-delay: calc(var(--i, 0) * 80ms);
+}
+
+.js [data-reveal].is-in {
+    opacity: 1;
+    translate: 0 0;
+}
+
+/* Cross-document page transitions (progressive enhancement) */
+@view-transition {
+    navigation: auto;
+}
+
+::view-transition-old(root),
+::view-transition-new(root) {
+    animation-duration: 0.35s;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    html {
+        scroll-behavior: auto;
+    }
+
+    .js [data-reveal] {
+        opacity: 1;
+        translate: 0 0;
+        transition: none;
+    }
+
+    .photo img,
+    .btn,
+    .btn svg {
+        transition: none;
+    }
+
+    .hero-bg,
+    .dot-live::after {
+        animation: none;
+    }
+
+    .photo:hover img {
+        transform: none;
+    }
+
+    @view-transition {
+        navigation: none;
+    }
+}

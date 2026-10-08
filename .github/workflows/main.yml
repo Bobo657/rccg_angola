@@ -1,45 +1,81 @@
 name: Deploy Laravel Project on push
+
+# Builds the site the way a shared FTP host needs it (production Composer packages only: the CSS and JavaScript are
+# committed as public/css/site.css and public/js/site.js, there is no asset build) and uploads it. Tests, Pint and PHPStan run in tests.yml.
+#
+# Optional repository variables (Settings > Secrets and variables > Actions > Variables):
+#   FTP_SERVER_DIR  the folder on the server to upload into, default ./
+#   FTP_PROTOCOL    ftp, ftps or ftps-legacy, default ftp. Use ftps if the host supports it: plain ftp sends the
+#                   password unencrypted.
+
 on:
   push:
     branches:
-      - master
-jobs:
-  build-test:
-    runs-on: ${{ matrix.os }}-latest
-    strategy:
-      matrix:
-        os: [ubuntu]
-        node-version: [16.x]
-    steps:
-      - uses: shivammathur/setup-php@v2
-        with:
-          php-version: "8.1"
-      - uses: actions/checkout@v3
-      # - name: Copy .env
-      #   run: php -r "file_exists('.env') || copy('.env.ci', '.env');"
-      #- name: Install composer dependencies
-      #  run: composer install -q --no-ansi --no-interaction --no-scripts --no-progress --prefer-dist
-      # - name: Use Node.js 12
-      #   uses: actions/setup-node@v2-beta
-      #   with:
-      #     node-version:
-      # - name: ci run build
-      #   run: |
-      #     npm ci
-      #     npm install
-      #     npm run build
-      #   env:
-      #     CI: false
-  deploy:
-    needs: build-test
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@master
-      - name: deploy-staging
-        uses: SamKirkland/FTP-Deploy-Action@2.0.0
-        env:
-          FTP_SERVER: ${{ secrets.FTP_SERVER }}
-          FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
-          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+      - main
+  workflow_dispatch:
 
-  
+permissions:
+  contents: read
+
+# One upload at a time: two deploys running over each other can leave the site half updated.
+concurrency:
+  group: deploy-production
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@f3e473d116dcccaddc5834248c87452386958240 # v2
+        with:
+          php-version: '8.3'
+          extensions: curl, dom, fileinfo, intl, mbstring, openssl
+          tools: composer:v2
+          coverage: none
+
+      # No dev packages (Boost, Pail, Pint, PHPStan...) on the server. This also writes bootstrap/cache/packages.php
+      # and services.php without them, which is uploaded below, so the host never looks for a missing dev provider.
+     
+      - name: Deploy over FTP
+        uses: SamKirkland/FTP-Deploy-Action@110f9186c050f71550953127052e77650219c287 # v4.4.0
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ${{ vars.FTP_PROTOCOL || 'ftp' }}
+          server-dir: ${{ vars.FTP_SERVER_DIR || './' }}
+          # Replaces the action's default list, so the .git and node_modules entries stay. The server keeps its own
+          # .env, uploads (storage/app) and logs; none of them are uploaded, and none are deleted by a deploy.
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
+            **/.DS_Store
+            .github/**
+            .impeccable/**
+            DESIGN.md
+            PRODUCT.md
+            README.md
+            Procfile
+            package.json
+            package-lock.json
+            resources/css/**
+            tests/**
+            phpunit.xml
+            .phpunit.cache/**
+            .phpunit.result.cache
+            .editorconfig
+            .npmrc
+            .env
+            .env.*
+            database/*.sqlite
+            
+

@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-08T05:43:13.142060+00:00",
+  "title": "Design System: RCCG Angola",
+  "extensions": {
+    "colorMeta": {
+      "seal-indigo": {
+        "role": "primary",
+        "displayName": "Seal Indigo",
+        "canonical": "#28166f",
+        "tonalRamp": [
+          "#120b34",
+          "#1c1052",
+          "#28166f",
+          "#382390",
+          "#4a33ad",
+          "#8f80d6",
+          "#d3ccf2",
+          "#f3f1fb"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Cool Paper",
+        "canonical": "#f7f6fb",
+        "tonalRamp": [
+          "#17122e",
+          "#5a5574",
+          "#8d88a3",
+          "#b9b5cc",
+          "#dedaf0",
+          "#ebe8f5",
+          "#f3f1fb",
+          "#f7f6fb"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Home H1 only."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Section headings."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Reading text, 68ch measure."
+      }
+    },
+    "shadows": [
+      {
+        "name": "strip-lift",
+        "value": "0 30px 60px -30px rgba(40,22,111,0.6)",
+        "purpose": "Where/when info strip."
+      },
+      {
+        "name": "photo-lift",
+        "value": "0 20px 40px -20px rgba(40,22,111,0.5)",
+        "purpose": "Overlapping hero photo."
+      },
+      {
+        "name": "menu-lift",
+        "value": "0 18px 40px -18px rgba(40,22,111,0.35)",
+        "purpose": "Desktop About dropdown."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease-out-expo",
+        "value": "cubic-bezier(0.16, 1, 0.3, 1)",
+        "purpose": "All reveals, hover zoom and menu transitions."
+      },
+      {
+        "name": "reveal",
+        "value": "0.8s opacity + translate 18px, 80ms stagger",
+        "purpose": "Scroll reveal; disabled under reduced motion."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "sm",
+        "value": "640px"
+      },
+      {
+        "name": "md",
+        "value": "768px"
+      },
+      {
+        "name": "lg",
+        "value": "1024px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Main call to action.",
+      "html": "<a class=\"ds-btn\" href=\"#\">Plan your visit</a>",
+      "css": ".ds-btn{display:inline-flex;align-items:center;min-height:48px;padding:12px 24px;border-radius:999px;background:#28166f;color:#fff;font:600 15px Figtree,system-ui,sans-serif;text-decoration:none;transition:background .25s,transform .35s}.ds-btn:hover{background:#382390}.ds-btn:active{transform:translateY(1px) scale(.98)}.ds-btn:focus-visible{outline:3px solid #6650c7;outline-offset:3px}"
+    },
+    {
+      "name": "Schedule Row",
+      "kind": "custom",
+      "description": "One weekly program.",
+      "html": "<div class=\"ds-row\"><span class=\"ds-when\">Every Sunday</span><span class=\"ds-name\">Main Sunday Service</span><span class=\"ds-time\">9:05 – 11:30</span></div>",
+      "css": ".ds-row{display:grid;grid-template-columns:1fr 2fr 1fr;gap:16px;align-items:baseline;padding:20px 0;border-bottom:1px solid #dedaf0;color:#17122e}.ds-when{font:400 14px Figtree,sans-serif;color:#5a5574}.ds-name{font:600 24px 'Young Serif',Georgia,serif}.ds-time{font:500 20px 'Young Serif',Georgia,serif;text-align:right;font-variant-numeric:tabular-nums;color:#382390}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Parish Doorstep",
+    "overview": "The site behaves like the front door of a parish: before anything else it tells a stranger where, when and who. The seal's deep indigo is used as large committed fields against an indigo-tinted off-white, and real photographs of the congregation carry the warmth.",
+    "keyCharacteristics": [
+      "Seal indigo as a field color, not a sprinkle of accent.",
+      "Real parish photography only.",
+      "Hairline dividers and lists in place of cards.",
+      "Pill buttons; photographs and panels with modest radii.",
+      "Phone numbers, addresses and times are always tappable and near the top."
+    ],
+    "rules": [
+      {
+        "name": "The Seal-Only Rule",
+        "body": "Brand color is the logo's indigo and its tints. Do not introduce a second hue for emphasis.",
+        "section": "colors"
+      },
+      {
+        "name": "The Cool Paper Rule",
+        "body": "Light grounds are indigo-tinted whites; warm cream is out.",
+        "section": "colors"
+      },
+      {
+        "name": "The Two-Face Rule",
+        "body": "Headings use Young Serif (one weight, never bolded); everything read or tapped uses Figtree.",
+        "section": "typography"
+      },
+      {
+        "name": "The Tinted Shadow Rule",
+        "body": "Shadows are indigo-tinted, soft, negative-spread; never grey or hard-offset.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do keep service time, address and phone within the first screen.",
+      "Do use only content that exists in the parish's own materials.",
+      "Do make every phone, email and address tappable.",
+      "Do respect prefers-reduced-motion."
+    ],
+    "donts": [
+      "Don't add a second brand hue, cream grounds, or gradient text.",
+      "Don't use three-equal-card icon rows, centered hero stacks, or nested cards.",
+      "Don't invent testimonials, statistics, sermons or events.",
+      "Don't use grey or hard-offset shadows."
+    ]
+  }
+}
